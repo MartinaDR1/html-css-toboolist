@@ -101,3 +101,20 @@ section{
 .yellow{
     background-color: #b0c926;
 }
+
+/*details*/
+.check{
+    border-radius: 50%;
+    border: 1px solid green;
+    color: green;
+
+    padding: 1px;
+}
+
+.cross{
+    border-radius: 50%;
+    border: 1px solid red;
+    color: red;
+
+    padding: 1px;
+}
