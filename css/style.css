@@ -68,7 +68,7 @@ body{
 
 section{
     margin: 40px;
-    line-height: 25px;
+    line-height: 45px;
 }
 
 .site-button{
@@ -78,4 +78,16 @@ section{
     
     padding: 6px;
     border-radius: 10px;
+}
+
+.purple{
+    background-color: #9c72e4;
+}
+
+.green{
+    background-color: #64c0a9;
+}
+
+.orange{
+    background-color: #f29e33;
 }
