@@ -80,6 +80,8 @@ section{
     border-radius: 10px;
 }
 
+/*color button*/
+
 .purple{
     background-color: #9c72e4;
 }
@@ -90,4 +92,12 @@ section{
 
 .orange{
     background-color: #f29e33;
+}
+
+.pink{
+    background-color: #d863a1;
+}
+
+.yellow{
+    background-color: #b0c926;
 }
